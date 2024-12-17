@@ -1,0 +1,21 @@
+﻿  Shapes.cpp
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(5,29): warning C4273: Square::Square: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(12,5): message : см. предыдущее определение "{ctor}"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(9,29): warning C4273: Square::area: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(13,12): message : см. предыдущее определение "area"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(13,34): warning C4273: Square::perimeter: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(14,12): message : см. предыдущее определение "perimeter"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(18,31): warning C4273: Circle::Circle: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(22,5): message : см. предыдущее определение "{ctor}"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(20,29): warning C4273: Circle::area: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(23,12): message : см. предыдущее определение "area"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(24,34): warning C4273: Circle::perimeter: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(24,12): message : см. предыдущее определение "perimeter"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(29,50): warning C4273: Triangle::Triangle: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(32,5): message : см. предыдущее определение "{ctor}"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(31,31): warning C4273: Triangle::area: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(33,12): message : см. предыдущее определение "area"
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.cpp(36,36): warning C4273: Triangle::perimeter: несовместимое связывание dll
+C:\Users\KASPERSKY\source\repos\GeometryDLL\GeometryDLL\Shapes.h(34,12): message : см. предыдущее определение "perimeter"
+     Создается библиотека C:\Users\KASPERSKY\source\repos\GeometryDLL\Debug\GeometryDLL.lib и объект C:\Users\KASPERSKY\source\repos\GeometryDLL\Debug\GeometryDLL.exp
+  GeometryDLL.vcxproj -> C:\Users\KASPERSKY\source\repos\GeometryDLL\Debug\GeometryDLL.dll
